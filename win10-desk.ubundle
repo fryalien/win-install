@@ -508,9 +508,9 @@
       }
     },
     {
-      "Id": "Valve.Steam",
-      "Name": "Steam",
-      "Version": "2.10.91.91",
+      "Id": "OBSProject.OBSStudio",
+      "Name": "OBS Studio",
+      "Version": "30.2.3",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -530,9 +530,9 @@
       }
     },
     {
-      "Id": "OBSProject.OBSStudio",
-      "Name": "OBS Studio",
-      "Version": "30.2.3",
+      "Id": "Valve.Steam",
+      "Name": "Steam",
+      "Version": "2.10.91.91",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -577,6 +577,28 @@
       "Id": "OpenWhisperSystems.Signal",
       "Name": "Signal",
       "Version": "7.30.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "VSCodium.VSCodium",
+      "Name": "VSCodium",
+      "Version": "1.94.2.24286",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -926,9 +948,9 @@
       }
     },
     {
-      "Id": "Obsidian.Obsidian",
-      "Name": "Obsidian",
-      "Version": "1.7.4",
+      "Id": "Microsoft.DevHome",
+      "Name": "Dev Home (Preview)",
+      "Version": "0.1801.640.0",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -948,9 +970,9 @@
       }
     },
     {
-      "Id": "Microsoft.DevHome",
-      "Name": "Dev Home (Preview)",
-      "Version": "0.1801.640.0",
+      "Id": "Obsidian.Obsidian",
+      "Name": "Obsidian",
+      "Version": "1.7.4",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -1105,70 +1127,40 @@
   "incompatible_packages_info": "Incompatible packages cannot be installed from WingetUI, but they have been listed here for logging purposes.",
   "incompatible_packages": [
     {
-      "Id": "Steam App 409710",
-      "Name": "BioShock Remastered",
-      "Version": "Unknown",
-      "Source": "Steam"
-    },
-    {
-      "Id": "MicrosoftCorporationII.WinAppRuntime.Main.1.5_5001.275.500.0_x64__8wekyb3d8bbwe",
-      "Name": "WinAppRuntime.Main.1.5",
-      "Version": "5001.275.500.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "Microsoft.WebpImageExtension_1.1.1711.0_x64__8wekyb3d8bbwe",
-      "Name": "Webp Image Extensions",
-      "Version": "1.1.1711.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x64__8wekyb3d8bbwe",
-      "Name": "Microsoft .Net Native Runtime Package 2.2",
-      "Version": "2.2.28604.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "{8A1033B0-EF33-4FB5-97A1-C47A7DCDD7E6}_is1",
-      "Name": "ClipGrab 3.9.7",
-      "Version": "Unknown",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "Microsoft.WinAppRuntime.DDLM.5001.275.500.0-x8_5001.275.500.0_x86__8wekyb3d8bbwe",
-      "Name": "Windows App Runtime DDLM 5001.275.500.0-x8",
-      "Version": "5001.275.500.0",
-      "Source": "Microsoft Store"
-    },
-    {
       "Id": "{889610CC-4337-4BDB-AC3B-4F21806C0BDE}_is1",
       "Name": "UniGetUI (formerly WingetUI)",
       "Version": "3.1.2",
       "Source": "Local PC"
     },
     {
-      "Id": "{1FC1A6C2-576E-489A-9B4A-92D21F542136}",
-      "Name": "Microsoft Update Health Tools",
-      "Version": "3.74.0.0",
+      "Id": "{4B6C7001-C7D6-3710-913E-5BC23FCE91E6}",
+      "Name": "Microsoft Visual C\u002B\u002B 2008 Redistributable - x64 9.0.30729.4148",
+      "Version": "9.0.30729.4148",
       "Source": "Local PC"
     },
     {
-      "Id": "Steam App 17480",
-      "Name": "Command \u0026 ConquerTM Red AlertTM 3",
-      "Version": "Unknown",
-      "Source": "Steam"
+      "Id": "Microsoft.WindowsCalculator_11.2409.0.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows Calculator",
+      "Version": "11.2409.0.0",
+      "Source": "Microsoft Store"
     },
     {
-      "Id": "Steam App 24790",
-      "Name": "Command \u0026 Conquer 3: Tiberium WarsTM",
-      "Version": "Unknown",
-      "Source": "Steam"
+      "Id": "Microsoft.Winget.Source_2024.1024.824.6_neutral__8wekyb3d8bbwe",
+      "Name": "Windows Package Manager Source (winget) V2",
+      "Version": "2024.1024.824.6",
+      "Source": "Microsoft Store"
     },
     {
-      "Id": "KRInstall Wuthering Waves Overseas",
-      "Name": "Wuthering Waves",
-      "Version": "1.6.0.0",
-      "Source": "Local PC"
+      "Id": "Microsoft.WindowsAppRuntime.1.5_5001.275.500.0_x86__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.5",
+      "Version": "5001.275.500.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.ScreenSketch_10.2008.3001.0_x64__8wekyb3d8bbwe",
+      "Name": "Snip \u0026 Sketch",
+      "Version": "10.2008.3001.0",
+      "Source": "Microsoft Store"
     },
     {
       "Id": "Microsoft.UI.Xaml.2.4_2.42007.9001.0_x86__8wekyb3d8bbwe",
@@ -1177,20 +1169,8 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "HYP_1_0_global",
-      "Name": "HoYoPlay",
-      "Version": "1.2.2.159",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe",
-      "Name": "Microsoft.UI.Xaml.2.4",
-      "Version": "2.42007.9001.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "Steam App 24810",
-      "Name": "Command \u0026 Conquer 3: Kane\u0027s WrathTM",
+      "Id": "Steam App 24790",
+      "Name": "Command \u0026 Conquer 3: Tiberium WarsTM",
       "Version": "Unknown",
       "Source": "Steam"
     },
@@ -1207,69 +1187,9 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "Microsoft.WindowsAppRuntime.1.5_5001.275.500.0_x86__8wekyb3d8bbwe",
-      "Name": "WindowsAppRuntime.1.5",
-      "Version": "5001.275.500.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "Microsoft.Services.Store.Engagement_10.0.23012.0_x64__8wekyb3d8bbwe",
-      "Name": "Microsoft Engagement Framework",
-      "Version": "10.0.23012.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "Steam App 47700",
-      "Name": "Command \u0026 ConquerTM 4 Tiberian Twilight",
-      "Version": "Unknown",
-      "Source": "Steam"
-    },
-    {
-      "Id": "Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x86__8wekyb3d8bbwe",
-      "Name": "Microsoft .Net Native Framework Package 2.2",
-      "Version": "2.2.29512.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "{1EEA2B6F-FD76-47D7-B74C-03E14CF043F9}_is1",
-      "Name": "Syncthing (Service)",
-      "Version": "Unknown",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "FreeFileSync_is1",
-      "Name": "FreeFileSync",
-      "Version": "13.7",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "Microsoft.ScreenSketch_10.2008.3001.0_x64__8wekyb3d8bbwe",
-      "Name": "Snip \u0026 Sketch",
-      "Version": "10.2008.3001.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "{DA80A019-4C3B-4DAA-ACA1-6937D7CAAF9E}",
-      "Name": "Update for x64-based Windows Systems (KB5001716)",
-      "Version": "8.94.0.0",
-      "Source": "Local PC"
-    },
-    {
-      "Id": "Microsoft.MicrosoftEdge.Stable_127.0.2651.74_neutral__8wekyb3d8bbwe",
-      "Name": "Microsoft Edge",
-      "Version": "127.0.2651.74",
-      "Source": "Microsoft Store"
-    },
-    {
       "Id": "Microsoft.WebMediaExtensions_1.1.1295.0_x64__8wekyb3d8bbwe",
       "Name": "Web Media Extensions",
       "Version": "1.1.1295.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbwe",
-      "Name": "Microsoft .Net Native Framework Package 2.2",
-      "Version": "2.2.29512.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1279,33 +1199,39 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x86__8wekyb3d8bbwe",
+      "Id": "{DA80A019-4C3B-4DAA-ACA1-6937D7CAAF9E}",
+      "Name": "Update for x64-based Windows Systems (KB5001716)",
+      "Version": "8.94.0.0",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "Steam App 24800",
+      "Name": "Command \u0026 ConquerTM Red AlertTM 3 - Uprising",
+      "Version": "Unknown",
+      "Source": "Steam"
+    },
+    {
+      "Id": "MicrosoftCorporationII.WinAppRuntime.Main.1.5_5001.275.500.0_x64__8wekyb3d8bbwe",
+      "Name": "WinAppRuntime.Main.1.5",
+      "Version": "5001.275.500.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WinAppRuntime.DDLM.5001.275.500.0-x8_5001.275.500.0_x86__8wekyb3d8bbwe",
+      "Name": "Windows App Runtime DDLM 5001.275.500.0-x8",
+      "Version": "5001.275.500.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x64__8wekyb3d8bbwe",
       "Name": "Microsoft .Net Native Runtime Package 2.2",
       "Version": "2.2.28604.0",
       "Source": "Microsoft Store"
     },
     {
-      "Id": "Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe",
-      "Name": "Microsoft Visual C\u002B\u002B 2015 UWP Runtime Package",
-      "Version": "14.0.33519.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "MicrosoftCorporationII.WinAppRuntime.Singleton_5001.275.500.0_x64__8wekyb3d8bbwe",
-      "Name": "WinAppRuntime.Singleton",
-      "Version": "5001.275.500.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "Steam App 70",
-      "Name": "Half-Life",
-      "Version": "Unknown",
-      "Source": "Steam"
-    },
-    {
-      "Id": "Microsoft.Winget.Source_2024.1024.824.6_neutral__8wekyb3d8bbwe",
-      "Name": "Windows Package Manager Source (winget) V2",
-      "Version": "2024.1024.824.6",
+      "Id": "Microsoft.MicrosoftEdge.Stable_127.0.2651.74_neutral__8wekyb3d8bbwe",
+      "Name": "Microsoft Edge",
+      "Version": "127.0.2651.74",
       "Source": "Microsoft Store"
     },
     {
@@ -1315,10 +1241,10 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "Microsoft.WindowsCalculator_11.2409.0.0_x64__8wekyb3d8bbwe",
-      "Name": "Windows Calculator",
-      "Version": "11.2409.0.0",
-      "Source": "Microsoft Store"
+      "Id": "Steam App 24810",
+      "Name": "Command \u0026 Conquer 3: Kane\u0027s WrathTM",
+      "Version": "Unknown",
+      "Source": "Steam"
     },
     {
       "Id": "Microsoft Edge Update",
@@ -1327,10 +1253,22 @@
       "Source": "Local PC"
     },
     {
-      "Id": "{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.Driver",
-      "Name": "NVIDIA Graphics Driver 560.94",
-      "Version": "560.94",
-      "Source": "Local PC"
+      "Id": "Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Runtime Package 2.2",
+      "Version": "2.2.28604.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.HEIFImageExtension_1.1.2631.0_x64__8wekyb3d8bbwe",
+      "Name": "HEIF Image Extensions",
+      "Version": "1.1.2631.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Steam App 409710",
+      "Name": "BioShock Remastered",
+      "Version": "Unknown",
+      "Source": "Steam"
     },
     {
       "Id": "Genshin Impact",
@@ -1339,21 +1277,39 @@
       "Source": "Local PC"
     },
     {
-      "Id": "Microsoft.Services.Store.Engagement_10.0.23012.0_x86__8wekyb3d8bbwe",
-      "Name": "Microsoft Engagement Framework",
-      "Version": "10.0.23012.0",
-      "Source": "Microsoft Store"
-    },
-    {
-      "Id": "Steam App 24800",
-      "Name": "Command \u0026 ConquerTM Red AlertTM 3 - Uprising",
+      "Id": "Steam App 17480",
+      "Name": "Command \u0026 ConquerTM Red AlertTM 3",
       "Version": "Unknown",
       "Source": "Steam"
     },
     {
-      "Id": "Microsoft.HEIFImageExtension_1.1.2631.0_x64__8wekyb3d8bbwe",
-      "Name": "HEIF Image Extensions",
-      "Version": "1.1.2631.0",
+      "Id": "{8A1033B0-EF33-4FB5-97A1-C47A7DCDD7E6}_is1",
+      "Name": "ClipGrab 3.9.7",
+      "Version": "Unknown",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Framework Package 2.2",
+      "Version": "2.2.29512.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Visual C\u002B\u002B 2015 UWP Runtime Package",
+      "Version": "14.0.33519.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "HYP_1_0_global",
+      "Name": "HoYoPlay",
+      "Version": "1.2.2.159",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft.UI.Xaml.2.4",
+      "Version": "2.42007.9001.0",
       "Source": "Microsoft Store"
     },
     {
@@ -1363,10 +1319,16 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "Steam App 409720",
-      "Name": "BioShock 2 Remastered",
+      "Id": "{1EEA2B6F-FD76-47D7-B74C-03E14CF043F9}_is1",
+      "Name": "Syncthing (Service)",
       "Version": "Unknown",
-      "Source": "Steam"
+      "Source": "Local PC"
+    },
+    {
+      "Id": "KRInstall Wuthering Waves Overseas",
+      "Name": "Wuthering Waves",
+      "Version": "1.6.0.0",
+      "Source": "Local PC"
     },
     {
       "Id": "Microsoft.VCLibs.140.00_14.0.33519.0_x86__8wekyb3d8bbwe",
@@ -1375,16 +1337,76 @@
       "Source": "Microsoft Store"
     },
     {
-      "Id": "{4B6C7001-C7D6-3710-913E-5BC23FCE91E6}",
-      "Name": "Microsoft Visual C\u002B\u002B 2008 Redistributable - x64 9.0.30729.4148",
-      "Version": "9.0.30729.4148",
+      "Id": "FreeFileSync_is1",
+      "Name": "FreeFileSync",
+      "Version": "13.7",
       "Source": "Local PC"
+    },
+    {
+      "Id": "Microsoft.Services.Store.Engagement_10.0.23012.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft Engagement Framework",
+      "Version": "10.0.23012.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Services.Store.Engagement_10.0.23012.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Engagement Framework",
+      "Version": "10.0.23012.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Steam App 70",
+      "Name": "Half-Life",
+      "Version": "Unknown",
+      "Source": "Steam"
+    },
+    {
+      "Id": "{1FC1A6C2-576E-489A-9B4A-92D21F542136}",
+      "Name": "Microsoft Update Health Tools",
+      "Version": "3.74.0.0",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "Steam App 409720",
+      "Name": "BioShock 2 Remastered",
+      "Version": "Unknown",
+      "Source": "Steam"
     },
     {
       "Id": "Microsoft.VP9VideoExtensions_1.1.451.0_x64__8wekyb3d8bbwe",
       "Name": "VP9 Video Extensions",
       "Version": "1.1.451.0",
       "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Steam App 47700",
+      "Name": "Command \u0026 ConquerTM 4 Tiberian Twilight",
+      "Version": "Unknown",
+      "Source": "Steam"
+    },
+    {
+      "Id": "MicrosoftCorporationII.WinAppRuntime.Singleton_5001.275.500.0_x64__8wekyb3d8bbwe",
+      "Name": "WinAppRuntime.Singleton",
+      "Version": "5001.275.500.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WebpImageExtension_1.1.1711.0_x64__8wekyb3d8bbwe",
+      "Name": "Webp Image Extensions",
+      "Version": "1.1.1711.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Framework Package 2.2",
+      "Version": "2.2.29512.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.Driver",
+      "Name": "NVIDIA Graphics Driver 560.94",
+      "Version": "560.94",
+      "Source": "Local PC"
     }
   ]
 }
