@@ -1,0 +1,1390 @@
+{
+  "export_version": 2,
+  "packages": [
+    {
+      "Id": "clipgrab",
+      "Name": "Clipgrab",
+      "Version": "3.9.7",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Nextcloud.NextcloudDesktop",
+      "Name": "Nextcloud",
+      "Version": "3.14.2",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "KB2999226",
+      "Name": "KB2999226",
+      "Version": "1.0.20181019",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Eassos.DiskGenius",
+      "Name": "DiskGenius",
+      "Version": "Unknown",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": "5.6.1"
+      }
+    },
+    {
+      "Id": "Microsoft.UI.Xaml.2.8",
+      "Name": "Microsoft.UI.Xaml",
+      "Version": "8.2310.30001.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft.Edge",
+      "Name": "Microsoft Edge",
+      "Version": "130.0.2849.52",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "KB2919442",
+      "Name": "KB2919442",
+      "Version": "1.0.20160915",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "7zip.7zip",
+      "Name": "7-Zip",
+      "Version": "24.08",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "chocolatey-core.extension",
+      "Name": "Chocolatey Core.extension",
+      "Version": "1.4.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft.VCLibs.Desktop.14",
+      "Name": "Microsoft Visual C\u002B\u002B 2015 UWP Desktop Runtime Package",
+      "Version": "14.0.33728.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft.VCRedist.2013.x86",
+      "Name": "Microsoft Visual C\u002B\u002B 2013 Redistributable (x86)",
+      "Version": "12.0.40664.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft.VCRedist.2015\u002B.x64",
+      "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x64)",
+      "Version": "14.40.33816.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Meld.Meld",
+      "Name": "Meld",
+      "Version": "3.22.2",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft.AppInstaller",
+      "Name": "App Installer",
+      "Version": "1.23.1911.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "KB3033929",
+      "Name": "KB3033929",
+      "Version": "1.0.5",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "LocalSend.LocalSend",
+      "Name": "LocalSend",
+      "Version": "1.15.4",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Notepad\u002B\u002B.Notepad\u002B\u002B",
+      "Name": "Notepad\u002B\u002B",
+      "Version": "8.7",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Discord.Discord",
+      "Name": "Discord",
+      "Version": "1.0.9168",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "ByteDance.CapCut",
+      "Name": "CapCut",
+      "Version": "4.8.0.1818",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "KB3035131",
+      "Name": "KB3035131",
+      "Version": "1.0.3",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "vcredist140",
+      "Name": "Vcredist140",
+      "Version": "14.40.33816",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "GitHub.GitHubDesktop",
+      "Name": "GitHub Desktop",
+      "Version": "3.4.8",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "RustDesk.RustDesk",
+      "Name": "RustDesk",
+      "Version": "1.3.1",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Valve.Steam",
+      "Name": "Steam",
+      "Version": "2.10.91.91",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "OBSProject.OBSStudio",
+      "Name": "OBS Studio",
+      "Version": "30.2.3",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "KB2919355",
+      "Name": "KB2919355",
+      "Version": "1.0.20160915",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "OpenWhisperSystems.Signal",
+      "Name": "Signal",
+      "Version": "7.30.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Mega.MEGASync",
+      "Name": "MEGAsync",
+      "Version": "Unknown",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": "5.6.0.0"
+      }
+    },
+    {
+      "Id": "h3poteto.whalebird-desktop",
+      "Name": "Whalebird",
+      "Version": "6.0.1",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft.UI.Xaml.2.7",
+      "Name": "Microsoft.UI.Xaml",
+      "Version": "7.2208.15002.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "LibreWolf.LibreWolf",
+      "Name": "LibreWolf",
+      "Version": "131.0.3-1",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "chocolatey-compatibility.extension",
+      "Name": "Chocolatey Compatibility.extension",
+      "Version": "1.0.0",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Tutanota.Tutanota",
+      "Name": "Tutanota Desktop",
+      "Version": "244.240913.1",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft.VCRedist.2010.x86",
+      "Name": "Microsoft Visual C\u002B\u002B 2010 x86 Redistributable",
+      "Version": "10.0.40219",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft.VCRedist.2015\u002B.x86",
+      "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x86)",
+      "Version": "14.40.33816.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "qBittorrent.qBittorrent",
+      "Name": "qBittorrent",
+      "Version": "5.0.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Winamp.Winamp",
+      "Name": "Winamp",
+      "Version": "\u003E 5.91.0.10029",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "ONLYOFFICE.DesktopEditors",
+      "Name": "ONLYOFFICE Desktop Editors",
+      "Version": "8.2.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft.PowerToys",
+      "Name": "PowerToys",
+      "Version": "0.85.1",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft.VCRedist.2013.x64",
+      "Name": "Microsoft Visual C\u002B\u002B 2013 Redistributable (x64)",
+      "Version": "12.0.40664.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft.EdgeWebView2Runtime",
+      "Name": "Microsoft Edge WebView2 Runtime",
+      "Version": "130.0.2849.52",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "OpenShot.OpenShot",
+      "Name": "OpenShot Video Editor",
+      "Version": "3.2.1",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Obsidian.Obsidian",
+      "Name": "Obsidian",
+      "Version": "1.7.4",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Microsoft.DevHome",
+      "Name": "Dev Home (Preview)",
+      "Version": "0.1801.640.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "TenacityTeam.Tenacity",
+      "Name": "Tenacity",
+      "Version": "1.3.3",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "chocolatey-windowsupdate.extension",
+      "Name": "Chocolatey Windowsupdate.extension",
+      "Version": "1.0.5",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "KeePassXCTeam.KeePassXC",
+      "Name": "KeePassXC",
+      "Version": "2.7.9",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "PrestonN.FreeTube",
+      "Name": "FreeTube",
+      "Version": "0.21.3",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Brave.Brave",
+      "Name": "Brave",
+      "Version": "130.1.71.118",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "Oracle.VirtualBox",
+      "Name": "Oracle VM VirtualBox",
+      "Version": "7.1.4",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    }
+  ],
+  "incompatible_packages_info": "Incompatible packages cannot be installed from WingetUI, but they have been listed here for logging purposes.",
+  "incompatible_packages": [
+    {
+      "Id": "Steam App 409710",
+      "Name": "BioShock Remastered",
+      "Version": "Unknown",
+      "Source": "Steam"
+    },
+    {
+      "Id": "MicrosoftCorporationII.WinAppRuntime.Main.1.5_5001.275.500.0_x64__8wekyb3d8bbwe",
+      "Name": "WinAppRuntime.Main.1.5",
+      "Version": "5001.275.500.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WebpImageExtension_1.1.1711.0_x64__8wekyb3d8bbwe",
+      "Name": "Webp Image Extensions",
+      "Version": "1.1.1711.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Runtime Package 2.2",
+      "Version": "2.2.28604.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "{8A1033B0-EF33-4FB5-97A1-C47A7DCDD7E6}_is1",
+      "Name": "ClipGrab 3.9.7",
+      "Version": "Unknown",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "Microsoft.WinAppRuntime.DDLM.5001.275.500.0-x8_5001.275.500.0_x86__8wekyb3d8bbwe",
+      "Name": "Windows App Runtime DDLM 5001.275.500.0-x8",
+      "Version": "5001.275.500.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "{889610CC-4337-4BDB-AC3B-4F21806C0BDE}_is1",
+      "Name": "UniGetUI (formerly WingetUI)",
+      "Version": "3.1.2",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "{1FC1A6C2-576E-489A-9B4A-92D21F542136}",
+      "Name": "Microsoft Update Health Tools",
+      "Version": "3.74.0.0",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "Steam App 17480",
+      "Name": "Command \u0026 ConquerTM Red AlertTM 3",
+      "Version": "Unknown",
+      "Source": "Steam"
+    },
+    {
+      "Id": "Steam App 24790",
+      "Name": "Command \u0026 Conquer 3: Tiberium WarsTM",
+      "Version": "Unknown",
+      "Source": "Steam"
+    },
+    {
+      "Id": "KRInstall Wuthering Waves Overseas",
+      "Name": "Wuthering Waves",
+      "Version": "1.6.0.0",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "Microsoft.UI.Xaml.2.4_2.42007.9001.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft.UI.Xaml.2.4",
+      "Version": "2.42007.9001.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "HYP_1_0_global",
+      "Name": "HoYoPlay",
+      "Version": "1.2.2.159",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft.UI.Xaml.2.4",
+      "Version": "2.42007.9001.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Steam App 24810",
+      "Name": "Command \u0026 Conquer 3: Kane\u0027s WrathTM",
+      "Version": "Unknown",
+      "Source": "Steam"
+    },
+    {
+      "Id": "Microsoft.WinAppRuntime.DDLM.5001.275.500.0-x6_5001.275.500.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows App Runtime DDLM 5001.275.500.0-x6",
+      "Version": "5001.275.500.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsAppRuntime.1.5_5001.275.500.0_x64__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.5",
+      "Version": "5001.275.500.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsAppRuntime.1.5_5001.275.500.0_x86__8wekyb3d8bbwe",
+      "Name": "WindowsAppRuntime.1.5",
+      "Version": "5001.275.500.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Services.Store.Engagement_10.0.23012.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Engagement Framework",
+      "Version": "10.0.23012.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Steam App 47700",
+      "Name": "Command \u0026 ConquerTM 4 Tiberian Twilight",
+      "Version": "Unknown",
+      "Source": "Steam"
+    },
+    {
+      "Id": "Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Framework Package 2.2",
+      "Version": "2.2.29512.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "{1EEA2B6F-FD76-47D7-B74C-03E14CF043F9}_is1",
+      "Name": "Syncthing (Service)",
+      "Version": "Unknown",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "FreeFileSync_is1",
+      "Name": "FreeFileSync",
+      "Version": "13.7",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "Microsoft.ScreenSketch_10.2008.3001.0_x64__8wekyb3d8bbwe",
+      "Name": "Snip \u0026 Sketch",
+      "Version": "10.2008.3001.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "{DA80A019-4C3B-4DAA-ACA1-6937D7CAAF9E}",
+      "Name": "Update for x64-based Windows Systems (KB5001716)",
+      "Version": "8.94.0.0",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "Microsoft.MicrosoftEdge.Stable_127.0.2651.74_neutral__8wekyb3d8bbwe",
+      "Name": "Microsoft Edge",
+      "Version": "127.0.2651.74",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WebMediaExtensions_1.1.1295.0_x64__8wekyb3d8bbwe",
+      "Name": "Web Media Extensions",
+      "Version": "1.1.1295.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Framework Package 2.2",
+      "Version": "2.2.29512.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "NVIDIACorp.NVIDIAControlPanel_8.1.966.0_x64__56jybvy8sckqj",
+      "Name": "NVIDIA Control Panel",
+      "Version": "8.1.966.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft .Net Native Runtime Package 2.2",
+      "Version": "2.2.28604.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Visual C\u002B\u002B 2015 UWP Runtime Package",
+      "Version": "14.0.33519.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "MicrosoftCorporationII.WinAppRuntime.Singleton_5001.275.500.0_x64__8wekyb3d8bbwe",
+      "Name": "WinAppRuntime.Singleton",
+      "Version": "5001.275.500.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Steam App 70",
+      "Name": "Half-Life",
+      "Version": "Unknown",
+      "Source": "Steam"
+    },
+    {
+      "Id": "Microsoft.Winget.Source_2024.1024.824.6_neutral__8wekyb3d8bbwe",
+      "Name": "Windows Package Manager Source (winget) V2",
+      "Version": "2024.1024.824.6",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.UI.Xaml.2.0_2.1810.18004.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft.UI.Xaml.2.0",
+      "Version": "2.1810.18004.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.WindowsCalculator_11.2409.0.0_x64__8wekyb3d8bbwe",
+      "Name": "Windows Calculator",
+      "Version": "11.2409.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft Edge Update",
+      "Name": "Microsoft Edge Update",
+      "Version": "1.3.195.27",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.Driver",
+      "Name": "NVIDIA Graphics Driver 560.94",
+      "Version": "560.94",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "Genshin Impact",
+      "Name": "Genshin Impact",
+      "Version": "2.33.7.0",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "Microsoft.Services.Store.Engagement_10.0.23012.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft Engagement Framework",
+      "Version": "10.0.23012.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Steam App 24800",
+      "Name": "Command \u0026 ConquerTM Red AlertTM 3 - Uprising",
+      "Version": "Unknown",
+      "Source": "Steam"
+    },
+    {
+      "Id": "Microsoft.HEIFImageExtension_1.1.2631.0_x64__8wekyb3d8bbwe",
+      "Name": "HEIF Image Extensions",
+      "Version": "1.1.2631.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.Windows.Photos_2024.11070.11002.0_x64__8wekyb3d8bbwe",
+      "Name": "Microsoft Photos",
+      "Version": "2024.11070.11002.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Steam App 409720",
+      "Name": "BioShock 2 Remastered",
+      "Version": "Unknown",
+      "Source": "Steam"
+    },
+    {
+      "Id": "Microsoft.VCLibs.140.00_14.0.33519.0_x86__8wekyb3d8bbwe",
+      "Name": "Microsoft Visual C\u002B\u002B 2015 UWP Runtime Package",
+      "Version": "14.0.33519.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "{4B6C7001-C7D6-3710-913E-5BC23FCE91E6}",
+      "Name": "Microsoft Visual C\u002B\u002B 2008 Redistributable - x64 9.0.30729.4148",
+      "Version": "9.0.30729.4148",
+      "Source": "Local PC"
+    },
+    {
+      "Id": "Microsoft.VP9VideoExtensions_1.1.451.0_x64__8wekyb3d8bbwe",
+      "Name": "VP9 Video Extensions",
+      "Version": "1.1.451.0",
+      "Source": "Microsoft Store"
+    }
+  ]
+}
