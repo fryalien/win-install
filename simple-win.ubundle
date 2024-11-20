@@ -2,9 +2,9 @@
   "export_version": 2,
   "packages": [
     {
-      "Id": "ByteDance.CapCut",
-      "Name": "CapCut",
-      "Version": "5.0.0.1880",
+      "Id": "VSCodium.VSCodium",
+      "Name": "VSCodium",
+      "Version": "1.95.3.24321",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -26,7 +26,29 @@
     {
       "Id": "RustDesk.RustDesk",
       "Name": "RustDesk",
-      "Version": "1.3.1",
+      "Version": "1.3.2",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "ByteDance.CapCut",
+      "Name": "CapCut",
+      "Version": "5.1.0.1897",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -68,9 +90,31 @@
       }
     },
     {
+      "Id": "Geany.Geany",
+      "Name": "Geany",
+      "Version": "2.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "LocalSend.LocalSend",
       "Name": "LocalSend",
-      "Version": "1.15.4",
+      "Version": "1.16.1",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -114,7 +158,7 @@
     {
       "Id": "Obsidian.Obsidian",
       "Name": "Obsidian",
-      "Version": "1.7.4",
+      "Version": "1.7.7",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -136,7 +180,7 @@
     {
       "Id": "ONLYOFFICE.DesktopEditors",
       "Name": "ONLYOFFICE Desktop Editors",
-      "Version": "8.2.0",
+      "Version": "8.2.1.0",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -180,7 +224,7 @@
     {
       "Id": "PrestonN.FreeTube",
       "Name": "FreeTube",
-      "Version": "0.21.3",
+      "Version": "0.22.0",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -202,7 +246,7 @@
     {
       "Id": "Winamp.Winamp",
       "Name": "Winamp",
-      "Version": "\u003E 5.91.0.10029",
+      "Version": "5.91.0.10029",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -224,7 +268,7 @@
     {
       "Id": "qBittorrent.qBittorrent",
       "Name": "qBittorrent",
-      "Version": "5.0.0",
+      "Version": "5.0.2",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -266,9 +310,9 @@
       }
     },
     {
-      "Id": "Discord.Discord",
-      "Name": "Discord",
-      "Version": "1.0.9168",
+      "Id": "Vivaldi.Vivaldi",
+      "Name": "Vivaldi",
+      "Version": "7.0.3495.15",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -288,9 +332,9 @@
       }
     },
     {
-      "Id": "Mega.MEGASync",
-      "Name": "MEGAsync",
-      "Version": "Unknown",
+      "Id": "Telerik.Fiddler.Classic",
+      "Name": "Progress Telerik Fiddler Classic",
+      "Version": "5.0.20245.10105",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -306,35 +350,13 @@
       },
       "Updates": {
         "UpdatesIgnored": false,
-        "IgnoredVersion": "5.6.0.0"
+        "IgnoredVersion": ""
       }
     },
     {
       "Id": "Notepad\u002B\u002B.Notepad\u002B\u002B",
       "Name": "Notepad\u002B\u002B",
-      "Version": "8.7",
-      "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": ""
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "eloston.ungoogled-chromium",
-      "Name": "Chromium",
-      "Version": "130.0.6723.116",
+      "Version": "8.7.1",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -356,7 +378,7 @@
     {
       "Id": "Microsoft.PowerToys",
       "Name": "PowerToys",
-      "Version": "0.85.1",
+      "Version": "0.86.0",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -376,9 +398,55 @@
       }
     },
     {
+      "Id": "mpv",
+      "Name": "Mpv",
+      "Version": "2024.9.26",
+      "Source": "community",
+      "ManagerName": "Chocolatey",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [
+          ""
+        ],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "Spotify.Spotify",
       "Name": "Spotify",
-      "Version": "1.2.49.439.gfae492c7",
+      "Version": "1.2.51.345.gcc39d911",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
+      "Id": "rocksdanister.LivelyWallpaper",
+      "Name": "Lively Wallpaper",
+      "Version": "2.1.0.8",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -400,7 +468,7 @@
     {
       "Id": "OpenWhisperSystems.Signal",
       "Name": "Signal",
-      "Version": "7.30.0",
+      "Version": "7.33.0",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -442,9 +510,31 @@
       }
     },
     {
+      "Id": "9P2KRLMFXF9T",
+      "Name": "Fluent Terminal",
+      "Version": "0.7.7.0",
+      "Source": "msstore",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "SkipHashCheck": false,
+        "InteractiveInstallation": false,
+        "RunAsAdministrator": false,
+        "Architecture": "",
+        "InstallationScope": "",
+        "CustomParameters": [],
+        "PreRelease": false,
+        "CustomInstallLocation": "",
+        "Version": ""
+      },
+      "Updates": {
+        "UpdatesIgnored": false,
+        "IgnoredVersion": ""
+      }
+    },
+    {
       "Id": "GitHub.GitHubDesktop",
       "Name": "GitHub Desktop",
-      "Version": "3.4.8",
+      "Version": "3.4.9",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -508,53 +598,9 @@
       }
     },
     {
-      "Id": "clipgrab",
-      "Name": "Clipgrab",
-      "Version": "3.9.7",
-      "Source": "community",
-      "ManagerName": "Chocolatey",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": ""
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
-      "Id": "TenacityTeam.Tenacity",
-      "Name": "Tenacity",
-      "Version": "1.3.3",
-      "Source": "winget",
-      "ManagerName": "Winget",
-      "InstallationOptions": {
-        "SkipHashCheck": false,
-        "InteractiveInstallation": false,
-        "RunAsAdministrator": false,
-        "Architecture": "",
-        "InstallationScope": "",
-        "CustomParameters": [],
-        "PreRelease": false,
-        "CustomInstallLocation": "",
-        "Version": ""
-      },
-      "Updates": {
-        "UpdatesIgnored": false,
-        "IgnoredVersion": ""
-      }
-    },
-    {
       "Id": "LibreWolf.LibreWolf",
       "Name": "LibreWolf",
-      "Version": "131.0.3-1",
+      "Version": "132.0.2-1",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -576,7 +622,7 @@
     {
       "Id": "Nextcloud.NextcloudDesktop",
       "Name": "Nextcloud",
-      "Version": "3.14.2",
+      "Version": "3.14.3",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -598,7 +644,7 @@
     {
       "Id": "Brave.Brave",
       "Name": "Brave",
-      "Version": "130.1.71.118",
+      "Version": "131.1.73.89",
       "Source": "winget",
       "ManagerName": "Winget",
       "InstallationOptions": {
@@ -643,9 +689,27 @@
   "incompatible_packages_info": "Incompatible packages cannot be installed from WingetUI, but they have been listed here for logging purposes.",
   "incompatible_packages": [
     {
-      "Id": "FreeFileSync_is1",
-      "Name": "FreeFileSync",
-      "Version": "13.7",
+      "Id": "Microsoft.PowerToys.ImageResizerContextMenu_0.86.0.0_neutral__8wekyb3d8bbwe",
+      "Name": "PowerToys ImageResizer Context Menu",
+      "Version": "0.86.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.PowerToys.PowerRenameContextMenu_0.86.0.0_neutral__8wekyb3d8bbwe",
+      "Name": "PowerToys PowerRename Context Menu",
+      "Version": "0.86.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "Microsoft.PowerToys.FileLocksmithContextMenu_0.86.0.0_neutral__8wekyb3d8bbwe",
+      "Name": "PowerToys FileLocksmith Context Menu",
+      "Version": "0.86.0.0",
+      "Source": "Microsoft Store"
+    },
+    {
+      "Id": "{8A1033B0-EF33-4FB5-97A1-C47A7DCDD7E6}_is1",
+      "Name": "ClipGrab 3.9.11",
+      "Version": "Unknown",
       "Source": "Local PC"
     },
     {
@@ -655,9 +719,9 @@
       "Source": "Local PC"
     },
     {
-      "Id": "{889610CC-4337-4BDB-AC3B-4F21806C0BDE}_is1",
-      "Name": "UniGetUI (formerly WingetUI)",
-      "Version": "3.1.2",
+      "Id": "FreeFileSync_is1",
+      "Name": "FreeFileSync",
+      "Version": "13.8",
       "Source": "Local PC"
     }
   ]
