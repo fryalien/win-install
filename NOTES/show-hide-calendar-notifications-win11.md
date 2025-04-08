@@ -4,7 +4,7 @@
 
 `User Configuration > Administrative Templates > Start Menu and Taskbar`
 
-double click/tap on the `Remove Notifications and Action Center`
+Double click/tap on the `Remove Notifications and Action Center`
 
 Set to `Enabled` to show
 
