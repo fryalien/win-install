@@ -1,6 +1,6 @@
 **Windows 11 Snap Layouts**
 
-Settings > Multitasking > Snap windows
+Settings > System > Multitasking > Snap windows
 
 or
 
